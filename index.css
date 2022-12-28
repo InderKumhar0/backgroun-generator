@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+  }
+  
+  html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Press Start 2p', sans-serif;
+    color: #eee;
+    /* background-color: rgb(247, 201, 36); */
+  
+  }
+
+ .time{
+    font-size: 50px;
+  }
+
+  .main {
+    text-align: center;
+    /* padding: 20%; */
+    padding-top: 25rem;
+  }
+
+  .heading {
+    font-size: 50px;
+    padding-bottom: 10px;
+  }
+
+  button{
+    background-color: transparent;
+    color:white;
+    border: solid 1px white;
+    text-decoration:none;
+    cursor:pointer;
+    font-size:2.2em;
+    padding:18px 10px;
+    width:180px;
+    margin: 10px;
+    outline: none;
+    border-radius: 7px;
+  }
+
+  button:hover {
+    background-color: white;
+    color: rgb(247, 201, 36);
+  }
+    
